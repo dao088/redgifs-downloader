@@ -1,4 +1,4 @@
-# RedGifs Downloader
+# RedGifs downloader Chrome extension
 
 ## Installation
 
